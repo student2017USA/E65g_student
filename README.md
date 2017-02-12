@@ -8,4 +8,4 @@ You will fork this repo to your own area.  This will be the root directory under
 Assignment1
 
 was submit before 07.02.2017 (Estern local time Zurich) under  https://github.com/student2017USA/Assigment1 and was change now correct to this folder.
-Its was my mistake and I will doing this next time correct! I hppe you acpt this for takes points for this assignment, Thanka a lot!
+Its was my mistake and I will doing this next time submit correct! I hope give me points for this assignment 1. Thanka a lot!
