@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; accessibilityLabel = "Reset"; ObjectID = "5Y1-PW-q9A"; */
+"5Y1-PW-q9A.accessibilityLabel" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "5Y1-PW-q9A"; */
+"5Y1-PW-q9A.normalTitle" = "Reset";
+
+/* Class = "UISlider"; accessibilityLabel = "Grid Size"; ObjectID = "8AO-S8-ciG"; */
+"8AO-S8-ciG.accessibilityLabel" = "Grid Size";
+
+/* Class = "UITextField"; accessibilityLabel = "Generation"; ObjectID = "8LP-AL-XE5"; */
+"8LP-AL-XE5.accessibilityLabel" = "Generation";
+
+/* Class = "UITextField"; placeholder = "Generation"; ObjectID = "8LP-AL-XE5"; */
+"8LP-AL-XE5.placeholder" = "Generation";
+
+/* Class = "UILabel"; text = "Frames/Second"; ObjectID = "9fE-7l-y4U"; */
+"9fE-7l-y4U.text" = "Frames/Second";
+
+/* Class = "UISlider"; accessibilityLabel = "Frames/Second"; ObjectID = "BTf-7v-WDN"; */
+"BTf-7v-WDN.accessibilityLabel" = "Frames/Second";
+
+/* Class = "UITabBarItem"; title = "Simulation"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Simulation";
+
+/* Class = "UILabel"; text = "Grid Size"; ObjectID = "bLy-A6-79M"; */
+"bLy-A6-79M.text" = "Grid Size";
+
+/* Class = "UITabBarItem"; title = "Instrumentation"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Instrumentation";
