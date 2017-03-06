@@ -175,7 +175,7 @@ struct Cell {
  */
 // ** Your Problem 4.2 answer goes here **
 /*
- Tsransform is a funciton type ((Int, Int) -> (T)) which taking 2 Ints and return something of T (otate view for Int) and transform is a computed variable that will be a Cell Struct in this example.
+ Transform is a funciton type ((Int, Int) -> (T)) which taking 2 Ints and return something of T (otate view for Int) and transform is a computed variable that will be a Cell Struct in this example.
  */
 /*:
  3. what is the return type of `map2`?
