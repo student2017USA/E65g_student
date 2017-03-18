@@ -9,3 +9,16 @@ Assignment1
 
 was submit before 07.02.2017 (Estern local time Zurich, depents email) under  https://github.com/student2017USA/Assigment1 and was change now correct to this folder.
 Its was my mistake and I will doing this next time submit correct! I hope you give me points for this assignment 1. Thanka a lot!
+
+
+
+Assignment2
+
+was updated on 06.03.2017
+ 	Update Contents.swift 
+  
+  
+  Assignment3
+
+was updated on 18.03.2017
+ 
